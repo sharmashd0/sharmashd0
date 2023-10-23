@@ -5,6 +5,6 @@
 - 📫 How to reach mesharmashd0@gmail.com
 
 <!---
-sharmashd0/sharmashd0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sharmashd0/sharmashd0 is a ✨ special ✨] because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
