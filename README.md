@@ -5,6 +5,6 @@
 - 📫 How to reach mesharmashd0@gmail.com
 
 <!---
-sharmashd0/sharmashd0 is a ✨ special ✨] because its `README.md` (this file) appears on your GitHu
+sharmashd0/sharmashd0 is a ✨ special ✨] because its `README.md` (this file) appears on your GitH
 
 
